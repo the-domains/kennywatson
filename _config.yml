@@ -1,14 +1,26 @@
-layout_spectrum: 0.7801667
-typography_spectrum: 0.2222832
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.5240527
+  brandStrength: 0.3966165
   lightness: 0.2621822
-  brandStrength: 0.9451862
-  rhythmicContrast: 0.3346456
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#1D1D1D'
+    - '#2F2F2F'
+    - '#3F3F3F'
+    - '#6B6B6B'
+    - '#828282'
+  rhythmicContrast: 0.3346456
+typography_spectrum: 0.8433584
+layout_spectrum: 0.2117794
 name: Kennywatson
