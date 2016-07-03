@@ -1,0 +1,14 @@
+layout_spectrum: 0.7801667
+typography_spectrum: 0.2222832
+color:
+  saturation: 0.5240527
+  lightness: 0.2621822
+  brandStrength: 0.9451862
+  rhythmicContrast: 0.3346456
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Kennywatson
